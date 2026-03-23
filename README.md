@@ -1,4 +1,3 @@
-# Traffic Light Controller
 # Traffic Light Controller - Basys 3 FPGA
 
 Acest proiect implementează un sistem de control pentru semafoare (intersecție), dezvoltat în **Vivado** și testat pe placa de dezvoltare **Basys 3**. Proiectul utilizează logica automatelor de stare (FSM) pentru a gestiona secvențele de culori și temporizarea acestora.
@@ -24,7 +23,8 @@ Conform diagramei de stare incluse în proiect, sistemul parcurge următoarele e
 Fișierul de constrângeri (`Basys3_Master.xdc`) este configurat pentru a mapa ieșirile logice ale proiectului pe pinii fizici ai FPGA-ului, asigurând legătura corectă cu LED-urile și perifericele plăcii.
 
 ---
-**Autori:** * Bereş Dan-Cristian  
+**Autori:** 
+* Bereş Dan-Cristian  
 * Nemeţi Crişan Alexandru Denis  
 
 **Grupa:** 2133/3  
